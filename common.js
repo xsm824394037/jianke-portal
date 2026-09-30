@@ -33,7 +33,7 @@
         <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
         <div class="logo-text">
           <div class="cn">建科供应链平台</div>
-          <div class="en">Jianke Clean Supply Chain</div>
+          <div class="en">Jianke Supply Chain</div>
         </div>
       </a>
       <nav class="nav" id="nav">${navHTML}</nav>
@@ -60,7 +60,7 @@
             <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
             <div class="logo-text">
               <div class="cn">建科供应链平台</div>
-              <div class="en">Jianke Clean Supply Chain</div>
+              <div class="en">Jianke Supply Chain</div>
             </div>
           </div>
           <p>湖北建科科技集团旗下数字信息化子公司打造的洁净工程垂直领域产业互联网平台，以数字化供应链服务赋能洁净工程行业。</p>
