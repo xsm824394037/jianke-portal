@@ -30,7 +30,7 @@
   <header class="header" id="header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
-        <div class="logo-mark">建科</div>
+        <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
         <div class="logo-text">
           <div class="cn">建科洁净供应链平台</div>
           <div class="en">Jianke Clean Supply Chain</div>
@@ -57,7 +57,7 @@
       <div class="footer-top">
         <div class="footer-brand">
           <div class="logo">
-            <div class="logo-mark">建科</div>
+            <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
             <div class="logo-text">
               <div class="cn">建科洁净供应链平台</div>
               <div class="en">Jianke Clean Supply Chain</div>
