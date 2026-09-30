@@ -32,7 +32,7 @@
       <a href="index.html" class="logo">
         <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
         <div class="logo-text">
-          <div class="cn">建科洁净供应链平台</div>
+          <div class="cn">建科供应链平台</div>
           <div class="en">Jianke Clean Supply Chain</div>
         </div>
       </a>
@@ -59,7 +59,7 @@
           <div class="logo">
             <img class="logo-mark" src="logo-jianke.jpg" alt="建科">
             <div class="logo-text">
-              <div class="cn">建科洁净供应链平台</div>
+              <div class="cn">建科供应链平台</div>
               <div class="en">Jianke Clean Supply Chain</div>
             </div>
           </div>
